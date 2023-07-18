@@ -1,6 +1,6 @@
-alert("Iremos realizar alguns cálculos com 2 números")
-let firstNumber = prompt('Digite o primeiro número')
-let secondNumber = prompt('Digite o segundo número')
+alert("Iremos realizar alguns cálculos com 2 números.")
+let firstNumber = prompt('Digite o primeiro número.')
+let secondNumber = prompt('Digite o segundo número.')
 
 firstNumber = Number(firstNumber)
 secondNumber = Number(secondNumber)
